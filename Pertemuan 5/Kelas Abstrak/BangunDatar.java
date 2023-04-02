@@ -1,6 +1,6 @@
 /*
  * File : BangunDatar.java  (01/04/2023)
- * Penulis : Devin Januar Siahaan (24060121140158)
+ * Penulis : Ihsan Alif Lazuardi Anwar (24060121140162)
  * Deskripsi : kelas abstrak, berisi abstraksi bangun datar
  */
 
